@@ -1,0 +1,16 @@
+https://stackoverflow.com/questions/51562067/connectionabortederror-winerror-10053-an-established-connection-was-aborted-b
+http://www.radiomap.eu/list/
+https://de1.api.radio-browser.info/#List_of_radio_stations
+https://de1.api.radio-browser.info/json/stations/bycountry/egypt
+http://radiomap.eu/uk/aberdeen
+
+
+
+
+
+
+https://blog.mayadata.io/openebs/litmus-journey-of-a-storage-e2e-and-chaos-framework-for-kubernetes
+https://www.google.com/search?newwindow=1&sxsrf=ALeKk009kUGLP1K7_v9UkNUCITbRIFPPGQ:1603473738833&source=univ&tbm=isch&q=karthik+s+chaos+engineering&client=firefox-b-e&sa=X&ved=2ahUKEwiuhvCUncvsAhXcAGMBHXhkBBMQjJkEegQIChAB&biw=1366&bih=608#imgrc=exyG4h8P7Z8ObM
+
+
+
